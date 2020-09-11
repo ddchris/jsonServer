@@ -1,8 +1,262 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "data": {
+        "items": [
+          {
+            "itemid": 3448840314,
+            "price_max_before_discount": -1,
+            "item_status": "normal",
+            "condition": 1,
+            "add_on_deal_info": {
+              "add_on_deal_id": 783448,
+              "add_on_deal_label": "加價購",
+              "sub_type": 0
+            },
+            "is_non_cc_installment_payment_eligible": false,
+            "categories": null,
+            "ctime": 1598341757,
+            "name": "【DIFF】彩色三層拋棄式防塵口罩 (50入/包) 六色任選【蝦皮團購】【N51】",
+            "show_shopee_verified_label": false,
+            "size_chart": null,
+            "is_pre_order": true,
+            "service_by_shopee_flag": 0,
+            "historical_sold": 1,
+            "reference_item_id": "",
+            "recommendation_info": null,
+            "bundle_deal_info": null,
+            "price_max": 9900000,
+            "has_lowest_price_guarantee": false,
+            "shipping_icon_type": null,
+            "images": [
+              "9e50bbadd100c9bf718c341f46ef9d6c",
+              "d104cf5d9be4178b91c44715707c7a26",
+              "fdf4fe2f23fdf9433a7c0115de790875",
+              "84217b6dbebb62e8eabff507f5bb0207",
+              "fc318c6736ba7ee153d5c8a279b16d1f",
+              "e9ad7f9a5be8d373df92705ad27176a1",
+              "5800b508d91491a59712936db89e6bf9",
+              "c33af1addbdac6e639cc95d1b7a93ec3",
+              "27937ae5b5c2ed10654ec102eb14f273",
+              "444537c01198b42135421c7075aa5977",
+              "fb7a1c6d4db613ef860ffbdcaf8a8402",
+              "42ead378146a6f177137b6bd379058c9"
+            ],
+            "models": [
+              {
+                "itemid": 3448840314,
+                "status": 1,
+                "current_promotion_reserved_stock": null,
+                "name": "成人口罩50片裝-綠色",
+                "promotionid": 0,
+                "price": 49900000,
+                "price_stocks": null,
+                "current_promotion_has_reserve_stock": null,
+                "currency": "TWD",
+                "normal_stock": null,
+                "extinfo": {
+                  "seller_promotion_limit": null,
+                  "has_shopee_promo": null,
+                  "group_buy_info": {
+                    "group_size": 10,
+                    "custom_name": "DiFF 彩色三層拋棄式防塵口罩(50入/包)",
+                    "campaignid": 288,
+                    "start_time": 1599451200,
+                    "custom_images": [
+                      "023e0c64cdb9009eaca2bc8a277f01c9"
+                    ],
+                    "payment_duration": 86400,
+                    "users_paid": 180,
+                    "end_time": 1599796800,
+                    "purchase_limit": 2,
+                    "group_buy_price": 9900000,
+                    "group_buy_catid": 10
+                  },
+                  "holiday_mode_old_stock": null,
+                  "tier_index": [
+                    2
+                  ],
+                  "seller_promotion_refresh_time": 1599796800
+                },
+                "price_before_discount": 0,
+                "modelid": 30753054180,
+                "sold": 0,
+                "stock": 274
+              },
+              {
+                "itemid": 3448840314,
+                "status": 1,
+                "current_promotion_reserved_stock": null,
+                "name": "成人口罩50片裝-橘色",
+                "promotionid": 0,
+                "price": 49900000,
+                "price_stocks": null,
+                "current_promotion_has_reserve_stock": null,
+                "currency": "TWD",
+                "normal_stock": null,
+                "extinfo": {
+                  "seller_promotion_limit": null,
+                  "has_shopee_promo": null,
+                  "group_buy_info": {
+                    "group_size": 10,
+                    "custom_name": "DiFF 彩色三層拋棄式防塵口罩(50入/包)",
+                    "campaignid": 288,
+                    "start_time": 1599451200,
+                    "custom_images": [
+                      "023e0c64cdb9009eaca2bc8a277f01c9"
+                    ],
+                    "payment_duration": 86400,
+                    "users_paid": 180,
+                    "end_time": 1599796800,
+                    "purchase_limit": 2,
+                    "group_buy_price": 9900000,
+                    "group_buy_catid": 10
+                  },
+                  "holiday_mode_old_stock": null,
+                  "tier_index": [
+                    3
+                  ],
+                  "seller_promotion_refresh_time": 1599796800
+                },
+                "price_before_discount": 0,
+                "modelid": 30753054181,
+                "sold": 1,
+                "stock": 221
+              },
+              {
+                "itemid": 3448840314,
+                "status": 1,
+                "current_promotion_reserved_stock": null,
+                "name": "成人口罩50片裝-粉紅色",
+                "promotionid": 0,
+                "price": 49900000,
+                "price_stocks": null,
+                "current_promotion_has_reserve_stock": null,
+                "currency": "TWD",
+                "normal_stock": null,
+                "extinfo": {
+                  "seller_promotion_limit": null,
+                  "has_shopee_promo": null,
+                  "group_buy_info": {
+                    "group_size": 10,
+                    "custom_name": "DiFF 彩色三層拋棄式防塵口罩(50入/包)",
+                    "campaignid": 288,
+                    "start_time": 1599451200,
+                    "custom_images": [
+                      "023e0c64cdb9009eaca2bc8a277f01c9"
+                    ],
+                    "payment_duration": 86400,
+                    "users_paid": 180,
+                    "end_time": 1599796800,
+                    "purchase_limit": 2,
+                    "group_buy_price": 9900000,
+                    "group_buy_catid": 10
+                  },
+                  "holiday_mode_old_stock": null,
+                  "tier_index": [
+                    4
+                  ],
+                  "seller_promotion_refresh_time": 1599796800
+                },
+                "price_before_discount": 0,
+                "modelid": 30753054182,
+                "sold": 0,
+                "stock": 270
+              },
+              {
+                "itemid": 3448840314,
+                "status": 1,
+                "current_promotion_reserved_stock": null,
+                "name": "成人口罩50片裝-紫色",
+                "promotionid": 0,
+                "price": 49900000,
+                "price_stocks": null,
+                "current_promotion_has_reserve_stock": null,
+                "currency": "TWD",
+                "normal_stock": null,
+                "extinfo": {
+                  "seller_promotion_limit": null,
+                  "has_shopee_promo": null,
+                  "group_buy_info": {
+                    "group_size": 10,
+                    "custom_name": "DiFF 彩色三層拋棄式防塵口罩(50入/包)",
+                    "campaignid": 288,
+                    "start_time": 1599451200,
+                    "custom_images": [
+                      "023e0c64cdb9009eaca2bc8a277f01c9"
+                    ],
+                    "payment_duration": 86400,
+                    "users_paid": 180,
+                    "end_time": 1599796800,
+                    "purchase_limit": 2,
+                    "group_buy_price": 9900000,
+                    "group_buy_catid": 10
+                  },
+                  "holiday_mode_old_stock": null,
+                  "tier_index": [
+                    5
+                  ],
+                  "seller_promotion_refresh_time": 1599796800
+                },
+                "price_before_discount": 0,
+                "modelid": 30753054183,
+                "sold": 0,
+                "stock": 243
+              },
+              {
+                "itemid": 3448840314,
+                "status": 1,
+                "current_promotion_reserved_stock": null,
+                "name": "兒童口罩50片裝-藍色",
+                "promotionid": 0,
+                "price": 49900000,
+                "price_stocks": null,
+                "current_promotion_has_reserve_stock": null,
+                "currency": "TWD",
+                "normal_stock": null,
+                "extinfo": {
+                  "seller_promotion_limit": null,
+                  "has_shopee_promo": null,
+                  "group_buy_info": null,
+                  "holiday_mode_old_stock": null,
+                  "tier_index": [
+                    6
+                  ],
+                  "seller_promotion_refresh_time": 0
+                },
+                "price_before_discount": 0,
+                "modelid": 30753054184,
+                "sold": 0,
+                "stock": 0
+              }
+            ],
+            "price": 49900000,
+            "shop_location": "台中市西屯區",
+            "tier_variations": [
+              {
+                "images": [],
+                "properties": [],
+                "type": 0,
+                "name": "規格",
+                "options": [
+                  "成人口罩50片裝-藍色",
+                  "成人口罩50片裝-淺黃",
+                  "成人口罩50片裝-綠色",
+                  "成人口罩50片裝-橘色",
+                  "成人口罩50片裝-粉紅色",
+                  "成人口罩50片裝-紫色",
+                  "兒童口罩50片裝-藍色"
+                ]
+              }
+            ],
+            "makeups": null,
+            "welcome_package_type": 0,
+            "show_official_shop_label_in_normal_position": null,
+            "item_type": 0
+          }
+        ],
+        "total": 49
+      }
     }
   ],
   "profile": {
